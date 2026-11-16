@@ -1,0 +1,6 @@
+jq						install
+libc-bin					install
+libjq1:arm64					install
+libjs-jquery					install
+libsqlite3-0:arm64				install
+sqlite3						install
